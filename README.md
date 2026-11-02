@@ -42,6 +42,24 @@ The project includes the following steps:
 8. Running a Monte Carlo simulation with 10,000 random portfolios.
 9. Testing the selected portfolio on unseen historical data.
 10. Comparing its performance with the SPY benchmark.
+    
+## Visualizations
+
+### Growth of $1
+
+![Growth of $1](images/growth_of_1_dollar.png)
+
+### Correlation Matrix
+
+![Correlation Matrix](images/correlation_matrix.png)
+
+### Monte Carlo Simulation
+
+![Monte Carlo Simulation](images/monte_carlo_simulation.png)
+
+### Optimized Portfolio vs. SPY
+
+![Optimized Portfolio vs. SPY](images/optimized_portfolio_vs_spy.png)
 
 ## Out-of-Sample Results
 
